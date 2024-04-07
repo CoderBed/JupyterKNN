@@ -1,1 +1,1 @@
-# JupyterKNN
+# KNN
